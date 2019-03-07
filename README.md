@@ -8,5 +8,5 @@ Example image: <br>
 
 ## Resources 
 ___
-Link to the course where I originaly learned about this topic - https://www.coursera.org/learn/complex-analysis <br>
+Link to the course where I originally learned about this topic - https://www.coursera.org/learn/complex-analysis <br>
 This course is about complex analysis in general but goes into the mandelbrot set in one of the first weeks.
