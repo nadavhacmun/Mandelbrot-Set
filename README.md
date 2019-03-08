@@ -6,6 +6,12 @@ Example image: <br>
 ![mandelbrot](./Images/test500.png)
 
 
+## Installation
+1. Clone this repository to your computer
+`git clone https://github.com/nadavhacmun/Mandelbrot-Set`
+2. Install needed packages
+`pip install -r requirements.txt`
+
 ## Resources 
 ___
 Link to the course where I originally learned about this topic - https://www.coursera.org/learn/complex-analysis <br>
