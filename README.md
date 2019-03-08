@@ -7,9 +7,9 @@ Example image: <br>
 
 
 ## Installation
-1. Clone this repository to your computer
+1. Clone this repository to your computer <br>
 `git clone https://github.com/nadavhacmun/Mandelbrot-Set`
-2. Install needed packages
+2. Install needed packages <br>
 `pip install -r requirements.txt`
 
 ## Resources 
